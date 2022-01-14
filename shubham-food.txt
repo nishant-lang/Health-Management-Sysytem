@@ -1,0 +1,1 @@
+& C:/Users/Acer/AppData/Local/Programs/Python/Python310/python.exe d:/health-managment.py/helth.managment.py 

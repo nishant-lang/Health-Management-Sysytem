@@ -1,0 +1,2 @@
+
+['2022-01-13 23:20:19.193140']:& C:/Users/Acer/AppData/Local/Programs/Python/Python310/python.exe d:/health-managment.py/helth.managment.py

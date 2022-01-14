@@ -1,0 +1,10 @@
+
+
+['2022-01-13 22:50:26.303158']:DALL,CHAWAL,ROTI
+['2022-01-13 22:51:27.168957']:CHIKEN,RICE
+['2022-01-13 22:51:53.604014']:SABJI,ROTI
+['2022-01-13 23:09:34.305216']:& C:/Users/Acer/AppData/Local/Programs/Python/Python310/python.exe d:/health-managment.py/helth.managment.py
+['2022-01-13 23:21:16.344035']:machhi,rice
+['2022-01-13 23:22:27.036302']:RICEFRYED
+['2022-01-14 12:28:26.644258']:dal,cahawal
+['2022-01-14 12:29:08.976493']:dal,chaeal
